@@ -1,0 +1,20 @@
+div{
+	background-color: gray;
+	margin: 10px;
+}
+.header{
+	height: 100px;
+}
+.topLeft{
+	float: left;
+	height: 300px;
+	width: 48%;
+}
+.topRight{
+	float: left;
+	height: 300px;
+	width: 48%;
+}
+.bottomLeft{
+	
+}

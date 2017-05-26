@@ -1,0 +1,22 @@
+.header {
+	height:100px;
+}
+
+.left{
+	width:60%;
+	height: 450px;
+	float: left;
+}
+.right{
+	overflow: hidden;
+	height: 450px;
+	margin: 20px 10px ;
+}
+
+div{
+	background-color: gray;
+	margin: 10px;
+}
+.footer{
+	height: 100px;
+}

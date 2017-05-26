@@ -1,0 +1,26 @@
+div{
+	background-color: gray;
+	margin: 10px;
+}
+.header{
+	height: 100px;
+}
+.left{
+	float: left;
+	height: 450px;
+	width: 20%;
+}
+.center{
+	float: left;
+	height: 450px;
+	width: 55%;
+}
+.right{
+	float: left;
+	height: 450px;
+	width: 20%;
+}
+.footer{
+	height: 100px;
+	clear: both;
+}
